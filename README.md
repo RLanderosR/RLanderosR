@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @RLanderosR
 - 👀 I'm interested in coding with Python, and I'm open to exploring all types of uses with the tool.
-- 🌱 I'm currently working my way through learning Artificial Intelligence-related coding.
+- 🌱 I'm currently working my way through Artificial Intelligence-related coding.
 - 💞️ I'm looking to collaborate on any fun project or ML.
 - 📫 How to reach me via LinkedIn.
 
